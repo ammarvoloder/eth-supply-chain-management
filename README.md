@@ -1,1 +1,1 @@
-# eth-supply-chain-management
+# Ethereum Supply Chain Management
